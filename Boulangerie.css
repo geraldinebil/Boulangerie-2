@@ -1,0 +1,68 @@
+body {
+
+    background-image: url("desseinviennoiserie.jpg");
+   background-color: rgba(240, 253, 211, 0.5);
+   background-blend-mode: darken;
+}
+h1 {
+   color: rgb(0, 0, 0);
+    font-size: 80px;
+    font-family: 'Pacifico', cursive;
+   display: inline;
+   font-weight: lighter;
+   background-image: url(ble-mur.jpg);
+   background-repeat: no-repeat;
+background-size: 600px;
+}
+
+.back{
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.rue{
+    text-align: center;
+    font-weight: lighter;
+}
+div.image {
+    
+    text-align:center;
+}h3 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    background-color: rgba(170, 159, 159, 0.5);
+    display: inline;
+}
+p.bonbon {
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-size:30px;
+    font-family: 'Pacifico', cursive;
+    align-self: center;
+    text-align: center;
+    font-weight: normal;
+    background-color: rgba(170, 159, 159, 0.5);
+
+}
+img.gateau{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.beignet{
+text-align: center;
+}
+
+.lien {
+    text-align: right;
+    font-size: xx-large;
+    color: rgb(206, 0, 17);
+    font-weight: lighter;
+    background-color: rgba(170, 159, 159, 0.5);
+    display: inline;
+    font-family: 'Pacifico', cursive;
+}
+
